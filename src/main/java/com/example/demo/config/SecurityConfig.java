@@ -52,7 +52,7 @@ configuration.setAllowedOrigins(Arrays.asList(
  "http://localhost:5173",
 "http://localhost:3000",
 "http://localhost:3001",
-"https://frontend-notes-app.vercel.app" // change for your frontend
+"https://saas-notes-app-frontend-two.vercel.app/" // change for your frontend
 ));
  configuration.setAllowedMethods(Arrays.asList("GET", "POST", "PUT", "DELETE", "OPTIONS"));
 configuration.setAllowedHeaders(Arrays.asList("*"));
